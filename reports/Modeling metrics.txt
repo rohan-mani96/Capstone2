@@ -1,0 +1,28 @@
+﻿Variable/Feature
+	Coefficient/Weight
+	state_default_rate 
+	0.97
+	bank_default_rate 
+	0.34
+	Channel_B (Broker)
+	0.14
+	Current_Interest_Rate 
+	0.13
+	Channel_C (Correspondent)
+	0.1
+	Occupancy_Status_P (Primary Home)
+	0.05
+	MSA (Metropolitan Area)
+	-0.11
+	HARP_Indicator (Home Affordability Refinance Program)
+	-0.16
+	
+
+
+
+
+
+Model
+	Concordance
+	Cox PH
+	0.853
